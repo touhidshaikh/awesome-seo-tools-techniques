@@ -1,3 +1,4 @@
+
 # SEO Awesome Tools and Techniques
 
 ## 🚀 Description
@@ -18,13 +19,13 @@ Whether you're a beginner or an expert, these tools will help you boost visibili
 - [SEO Analytics](#seo-analytics)
 - [SEO Browser Extensions](#seo-browser-extensions)
 - [Validator / Checker](#validator--checker)
-- [**Analysis and Site Auditing**](#analysis-and-site-auditing)
-- [**Content and Social Media**](#content-and-social-media)
-- [**Documentation and Guidelines**](#documentation-and-guidelines)
-- [**Keyword and Competitor Research**](#keyword-and-competitor-research)
-- [**Performance and Speed**](#performance-and-speed)
-- [**Rich Snippets and Structured Data**](#rich-snippets-and-structured-data)
-- [**Articles and eBooks**](#articles-and-ebooks)
+- [Analysis and Site Auditing](#analysis-and-site-auditing)
+- [Content and Social Media](#content-and-social-media)
+- [Documentation and Guidelines](#documentation-and-guidelines)
+- [Keyword and Competitor Research](#keyword-and-competitor-research)
+- [Performance and Speed](#performance-and-speed)
+- [Rich Snippets and Structured Data](#rich-snippets-and-structured-data)
+- [Articles and eBooks](#articles-and-ebooks)
 - [Miscellaneous Tools](#miscellaneous-tools)
 
 
@@ -153,7 +154,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
 
 
-## **Analysis and Site Auditing**
+## Analysis and Site Auditing
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
@@ -161,21 +162,21 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 
 
-## **Content and Social Media**
+## Content and Social Media
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels.
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
 
 
-## **Documentation and Guidelines**
+## Documentation and Guidelines
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
 - [Diretrizes para Webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters.
 - [Open Graph Protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook.
 - [Sitelinks Search Box](https://developers.google.com/structured-data/slsb-overview) - Everything you want to know about the search box.
 
 
-## **Keyword and Competitor Research**
+## Keyword and Competitor Research
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter.
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing.
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site.
@@ -183,7 +184,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [SimilarWeb](http://www.similarweb.com/) - Analyzes website traffic and competition.
 
 
-## **Performance and Speed**
+## Performance and Speed
 - [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site’s mobile compatibility according to Google.
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Test your website's performance and get optimization tips.
 - [GTMetrix](https://gtmetrix.com/) - Measure your site’s Page Load Time, Total Page Size, and Total Requests.
@@ -191,7 +192,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [WebPageTest](http://www.webpagetest.org/) - Test your website’s performance and loading speed.
 
 
-## **Rich Snippets and Structured Data**
+## Rich Snippets and Structured Data
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate.
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples.
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
@@ -199,7 +200,7 @@ Equip your browser with tools for quick and efficient SEO insights on the go.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
 
 
-## **Articles and eBooks**
+## Articles and eBooks
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
 - 🇧🇷 [Schema.org – Dando Significado ao Conteúdo na Internet](http://blog.popupdesign.com.br/schema-org-dando-significado-ao-conteudo-na-internet) - Blog post about schema.org implementation.
 - 🇬🇧 [15 Awesome SEO Tools to Spy on Your Competitors](https://mention.com/en/blog/competitor-seo-tools/) - Explore SEO tools for analyzing competitors.
@@ -227,15 +228,15 @@ We welcome contributions to this repository! Here's how you can contribute:
 3. Create a pull request with your changes.
 4. Ensure your contribution adheres to our [guidelines](CONTRIBUTING.md).
 
-> **Note**: All contributions should be relevant, free of spam, and beneficial to the community.
+> Note: All contributions should be relevant, free of spam, and beneficial to the community.
 
 ---
 
 ## 📬 Contact
 If you have any questions, suggestions, or feedback, feel free to reach out:
-- **GitHub Issues**: [Open an issue](https://github.com/your-repo/issues)
-- **Twitter**: [@touhidshaikh22](https://twitter.com/touhidshaikh22)
+- GitHub Issues: [Open an issue](https://github.com/your-repo/issues)
+- Twitter: [@touhidshaikh22](https://twitter.com/touhidshaikh22)
 
 ---
 
-**Happy optimizing! 🚀**
+Happy optimizing! 🚀
