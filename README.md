@@ -59,6 +59,7 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 - [Clicks.so](https://www.clicks.so/) - The Beginner-Friendly Affordable SEO Tool.
 - [SEO Utils](https://seoutils.app/) - An SEO desktop application built for macOS, Windows, Linux.
 - [Spexia](https://getspexia.com) - All in one tool to create & optimize informational content (specialized on ECom shops).
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; covers site analysis, keyword research, meta tags, schema markup, and content writing, with live data from Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Keyword Research
 Uncover high-potential keywords to target and captivate your audience.
