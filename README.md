@@ -138,6 +138,7 @@ Boost your local presence and connect with audiences in your community.
 ## SEO Analytics
 - [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
+- [Vaneform](https://vaneform.com/) - Free website traffic checker for monthly visitors, traffic sources, and geo.
 
 
 ## SEO Browser Extensions
