@@ -83,6 +83,7 @@ Delve deep into your link profile and discover opportunities for growth and risk
 - [Majestic](https://majestic.com/) - Find out who links to your website.
 - [Monitor Backlinks](https://monitorbacklinks.com/) - Check the good and bad backlinks for you and the competition.
 - [Respona](https://respona.com/) - The all in one link building tool.
+- [Datacircle](https://datacircle.dev) - Compare backlink, keyword and SERP APIs by accuracy and what 1,000 calls cost.
 - [BacklinkGPT](https://www.backlinkgpt.com/) - An AI-powered link-building platform that helps you find backlink prospects and generate personalized outreach messages for faster link building.
 - Other "All in one SEO tools" offer this feature as well.
 
